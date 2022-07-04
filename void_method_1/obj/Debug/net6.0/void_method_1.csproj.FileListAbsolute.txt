@@ -1,0 +1,15 @@
+D:\GeekBrains\MyProgramms\lecture_3\void_method_1\bin\Debug\net6.0\void_method_1.exe
+D:\GeekBrains\MyProgramms\lecture_3\void_method_1\bin\Debug\net6.0\void_method_1.deps.json
+D:\GeekBrains\MyProgramms\lecture_3\void_method_1\bin\Debug\net6.0\void_method_1.runtimeconfig.json
+D:\GeekBrains\MyProgramms\lecture_3\void_method_1\bin\Debug\net6.0\void_method_1.dll
+D:\GeekBrains\MyProgramms\lecture_3\void_method_1\bin\Debug\net6.0\void_method_1.pdb
+D:\GeekBrains\MyProgramms\lecture_3\void_method_1\obj\Debug\net6.0\void_method_1.csproj.AssemblyReference.cache
+D:\GeekBrains\MyProgramms\lecture_3\void_method_1\obj\Debug\net6.0\void_method_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\MyProgramms\lecture_3\void_method_1\obj\Debug\net6.0\void_method_1.AssemblyInfoInputs.cache
+D:\GeekBrains\MyProgramms\lecture_3\void_method_1\obj\Debug\net6.0\void_method_1.AssemblyInfo.cs
+D:\GeekBrains\MyProgramms\lecture_3\void_method_1\obj\Debug\net6.0\void_method_1.csproj.CoreCompileInputs.cache
+D:\GeekBrains\MyProgramms\lecture_3\void_method_1\obj\Debug\net6.0\void_method_1.dll
+D:\GeekBrains\MyProgramms\lecture_3\void_method_1\obj\Debug\net6.0\refint\void_method_1.dll
+D:\GeekBrains\MyProgramms\lecture_3\void_method_1\obj\Debug\net6.0\void_method_1.pdb
+D:\GeekBrains\MyProgramms\lecture_3\void_method_1\obj\Debug\net6.0\void_method_1.genruntimeconfig.cache
+D:\GeekBrains\MyProgramms\lecture_3\void_method_1\obj\Debug\net6.0\ref\void_method_1.dll
